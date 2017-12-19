@@ -43,9 +43,9 @@
         <!-- <serverUrl>${oracleServerUrl}</serverUrl>
         <user>${oracleUsername}</user>
         <password>${oraclePassword}</password> -->
-		<serverUrl>http://dnvdevappfmw19.corpzone.internalzone.com:8001</serverUrl>
-		<user>weblogic</user>
-		<password>Welcome1</password>
+	<serverUrl>http://dnvdevappfmw19.corpzone.internalzone.com:8001</serverUrl>
+	<user>weblogic</user>
+	<password>Welcome1</password>
         <overwrite>true</overwrite>
         <forceDefault>true</forceDefault>
         <regenerateRulebase>false</regenerateRulebase>
