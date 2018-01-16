@@ -22,7 +22,7 @@
         <groupId>com.oracle.soa</groupId>
         <artifactId>sar-common</artifactId>
         <version>12.1.3-0-0</version>
-	<relativePath>/home/appsadm/.m2/repository/com/oracle/soa/orabpel/12.2.1-2-0/</relativePath>
+	<relativePath>/home/appsadm/.m2/repository/com/oracle/soa/orabpel/12.2.1-2-0/orabpel-12.2.1-2-0.pom</relativePath>
     </parent>
     
     <properties>
