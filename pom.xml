@@ -7,7 +7,7 @@
            the whole SOA Application, which may contain additional projects. 
         -->
     <modelVersion>4.0.0</modelVersion>
-    <groupId>nl.cvgz</groupId>
+    <groupId>SOA.MetaData</groupId>
     <artifactId>MDS</artifactId>
     <version>1.0</version>
     <packaging>sar</packaging>
@@ -89,7 +89,7 @@
                 <!-- extensions=true is needed to use the custom sar packaging type -->
                 <extensions>true</extensions>
             </plugin>
-	    <!-- plugin om te zorgen dat de apps directory gezipt wordt voor de MDS -->
+	    <!-- plugin to create MDS bundle with apps folder -->
 	    <plugin>
 			<artifactId>maven-assembly-plugin</artifactId>
 			<version>2.4.1</version>
